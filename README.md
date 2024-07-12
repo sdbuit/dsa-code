@@ -1,5 +1,5 @@
 # dsa-code 
 
-## Data Structures and Alogirthms Demo
+An assortment of fundamental data structures and algorithms.
 
 Samuel Buit
